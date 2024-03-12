@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://github.com/Ileriayo/ileriayo/raw/master/images/header.gif" alt="header" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://github.com/Judefabi/Judefabi/blob/main/judebanner.png" alt="header" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 ---
-[![](https://visitcount.itsvg.in/api?id=JudeFabi&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=JudeFabi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
