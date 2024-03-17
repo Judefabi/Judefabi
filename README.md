@@ -7,9 +7,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building backends so I can go fullstack
-- 🌱 I’m currently learning FastAPI and DevOps
+- 🌱 I’m currently learning to build backends with FastAPI, Python and creating CI/CD Pipelines. Going Fullstack soon!!
 - 👯 I’m looking to collaborate on anything involving Javascript
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything React or React Native
 - 📫 How to reach me: judefabiano99@gmail.com || +254791808163 or via SOCIALS
 - 😄 Pronouns: He/Him/His, but you can call me Chief
