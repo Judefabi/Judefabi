@@ -6,11 +6,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building backends so I can go fullstack
+- 🔭 I’m currently working on going pro with fullstack development
 - 🌱 I’m currently learning to build backends with FastAPI, Python and creating CI/CD Pipelines. Going Fullstack soon!!
 - 👯 I’m looking to collaborate on anything involving Javascript
 - 💬 Ask me about anything React or React Native
-- 📫 How to reach me: judefabiano99@gmail.com || +254791808163 or via SOCIALS
+- 📫 How to reach me: judefabiano99@gmail.com || +254791808163 OR on SOCIALS
 - 😄 Pronouns: He/Him/His, but you can call me Chief
 - ⚡ Fun fact: I think of a stack that I intend to use in a project then learn the languages as I build that project. Its quite fun and thank you AI 😄
 
