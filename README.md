@@ -4,8 +4,6 @@
 
 <!--**Judefabi/Judefabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on going pro with fullstack development
 - 🌱 I’m currently learning to build backends with FastAPI, Python and creating CI/CD Pipelines. Going Fullstack soon!!
 - 👯 I’m looking to collaborate on anything involving Javascript
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I think of a stack that I intend to use in a project then learn the languages as I build that project. Its quite fun and thank you AI 😄
 
 
-# 💻 Tech Stack:
+### Tech Stack:
 CRMs
  <br/>
 ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
