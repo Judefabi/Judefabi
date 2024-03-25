@@ -40,8 +40,6 @@ clients
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://github.com/Judefabi/Judefabi/blob/main/judebanner.png" alt="header" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
-![](https://visitcount.itsvg.in/api?id=JudeFabi&icon=0&color=0)(https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=JudeFabi&icon=0&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
