@@ -5,7 +5,7 @@
 <!--**Judefabi/Judefabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on going pro with fullstack development
-- 🌱 I’m currently learning to build backends with FastAPI, Python and creating CI/CD Pipelines. Going Fullstack soon!!
+- 🌱 I’m currently building backends with FastAPI, Python and creating CI/CD Pipelines. Going Fullstack soon!!
 - 👯 I’m looking to collaborate on anything involving Javascript
 - 💬 Ask me about anything React or React Native
 - 📫 How to reach me: judefabiano99@gmail.com || +254791808163 OR on SOCIALS
